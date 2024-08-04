@@ -1,5 +1,5 @@
 
-# Uber End-To-End Data Engineering Project on Google Cloud Platform
+# Data Engineering ETL Google Cloud Platform Project
 
 An end-to-end modern data engineering project, including deployment of ETL pipeline on Google Cloud Platform, using BigQuery for data analysis and leveraging Looker to generate an insight dashboard.
 

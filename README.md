@@ -4,9 +4,6 @@
 An end-to-end modern data engineering project, including deployment of ETL pipeline on Google Cloud Platform, using BigQuery for data analysis and leveraging Looker to generate an insight dashboard.
 
 
-
-
-
 ## Technology Stack
 Languages: 
 * Python
